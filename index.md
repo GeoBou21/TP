@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenue dasn la page de Georges
 
-You can use the [editor on GitHub](https://github.com/GeoBou21/TP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Je suis un geek version 1958. Donc aucun problème pour programmer un toaster mais c'est autre chose avec un site WEB...
 
 ### Markdown
 
