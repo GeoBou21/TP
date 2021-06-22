@@ -6,7 +6,7 @@ Je suis un geek version 1958. Donc aucun problème pour programmer un toaster ma
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Image](src)
+![Image](![Moi.jpg](https://user-images.githubusercontent.com/86240307/122959014-fb2ff280-d350-11eb-9d8e-671b310ddd14.jpg))
 
 
 
