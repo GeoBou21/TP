@@ -1,10 +1,14 @@
-## Bienvenue dasn la page de Georges
+## Bienvenue dans la page de Georges
 
 Je suis un geek version 1958. Donc aucun problème pour programmer un toaster mais c'est autre chose avec un site WEB...
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+![Image](src)
+
+
 
 ```markdown
 Syntax highlighted code block
