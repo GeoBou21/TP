@@ -8,10 +8,10 @@ Effectivement, mon équilibre mental serait menacé si j'avais à programmer tou
 
 ![Image](https://geobou21.github.io/TP/img/Moi.jpg)
 
-#Réussi ! 
+# Réussi ! 
 
-Voilà, j'ai posté une photo. J'ai bidouillé des heures pour réussir cet exploi. Ne me demandez pas comment. J'étais couché en dessous de mon ordi et je changeais l'huile à moteur, lorsque je suis revenu, la photo apparaissait. Ça finit bien une semaine car je sais que je dois déposé ce fabuleux travail pour 18 heures, et il est 17 heures... un soir de match en plus. 
+Voilà, j'ai posté une photo. J'ai bidouillé des heures pour réussir cet exploi. Ne me demandez pas comment. J'étais couché en dessous de mon ordi et je changeais l'huile à moteur, lorsque je suis revenu, la photo apparaissait. Ça finit bien une semaine car je sais que je dois déposer ce fabuleux travail pour 18 heures, et il est 17 heures... un soir de match en plus. 
 
 Donc, pour faire une histoire courte, me voilà expert Github et je serai le nouveau professeur de la prochaine session.
 
-##Bonne soirée à tous !
+## Bonne soirée à tous !
