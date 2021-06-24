@@ -6,7 +6,7 @@ Je suis un geek version 1958. Donc aucun problème pour programmer un toaster ma
 
 Effectivement, mon équilibre mental serait menacé si j'avais à programmer tous les jours sur ce genre de plateforme. J'admets que cela peut devenir un outil indispensable aux développeurs qui travaillent en équipe, mais comme je n'en suis pas un et que je n'n serai jamais un, je vais donc passer le plus vite possible cette étape :-)
 
-![Moi.jpg][https://github.com/GeoBou21/TP/blob/gh-pages/img/Moi.jpg)
+![https://github.com/GeoBou21/TP/blob/gh-pages/img/Moi.jpg]
 
 
 ```markdown
