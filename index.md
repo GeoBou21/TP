@@ -2,12 +2,11 @@
 
 Je suis un geek version 1958. Donc aucun problème pour programmer un toaster mais c'est autre chose avec un site WEB...
 
-### Markdown
+### Ne me demandez pas de travailler avec Github 7 jours sur 7
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Effectivement, mon équilibre mental serait menacé si j'avais à programmer tous les jours sur ce genre de plateforme. J'admets que cela peut devenir un outil indispensable aux développeurs qui travaillent en équipe, mais comme je n'en suis pas un et que je n'n serai jamais un, je vais donc passer le plus vite possible cette étape :-)
 
-![Image](![Moi.jpg](https://user-images.githubusercontent.com/86240307/122959014-fb2ff280-d350-11eb-9d8e-671b310ddd14.jpg))
-
+![Image](![Moi.jpg]
 
 
 ```markdown
